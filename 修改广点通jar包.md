@@ -31,31 +31,32 @@ classes.dex文件，保持原来的结构不变。<br>
 
 　　整个过程，解包和打包的文件结构不变，除了 MANIFEST.MF文件，这个不影响。<br>
 
-![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_one.png)
 
 
 ### 附件:
  　　jarjar.jar （百度搜索，用于修改jar包的）  、  Android逆向助手.exe （百度搜索）<br>
 
-	图一
-	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_one.png "图一 1")
+
+图一
+	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_one.png "图一1")
+	
 	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_one_2.png "图一 2")
 	
-	图二
+图二
 	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_two.png "图二")
  
-	图三
+图三
 	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_three.png "图三")
  
-	图四
+图四
     ![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_four.png "图四")
 	 
-	图五
+图五
 	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_five.png "图五")
 	
-	图六
+图六
 	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_six.png "图六")
 	
-	图七
+图七
 	![image](https://github.com/chengzipi/exampleTools/raw/master/images-folder/jar_seven.png "图七")
   
