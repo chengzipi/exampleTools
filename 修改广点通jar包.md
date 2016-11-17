@@ -31,6 +31,9 @@ classes.dex文件，保持原来的结构不变。<br>
 
 　　整个过程，解包和打包的文件结构不变，除了 MANIFEST.MF文件，这个不影响。<br>
 
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+
+
 ### 附件:
  　　jarjar.jar （百度搜索，用于修改jar包的）  、  Android逆向助手.exe （百度搜索）<br>
 
