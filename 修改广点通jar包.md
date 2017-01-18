@@ -22,7 +22,7 @@ ruleadv.txt 文件（ruleadv.txt内容为：rule com.qq.e.** com.junling.adv.@1�
 　　再次利用 Android逆向助手.exe工具 把classes_dex_new.jar转成classes_dex_new.dex,
 删除之前的classes.dex文件和classes_dex_new.jar文件把classes_dex_new.dex改成替换
 classes.dex文件，保持原来的结构不变。<br>
-　　把这个gdt_plugin目录打包成jar（恢复之前的gdtadv2.jar），提取gdtadv2文件夹里面的 MANIFEST.MF文件（图五），cd到gdt_plugin文件夹下面也就是gdtadv2.jar的所在的目录下面。<br>
+　　把这个gdt_plugin目录打包成jar（恢复之前的gdtadv2.jar），提取gdtadv2文件夹目录下面的META-INF下的 MANIFEST.MF文件（图五），cd到gdt_plugin文件夹下面也就是gdtadv2.jar解压缩的目录下面。<br>
 　执行命令：jar cvfm gdtadv2.jar MANIFEST.MF  .//     (.//表示当前目录)   生成的gdtadv2.jar就是我们修改完成之后的包了，然后删除并替换之前gdtadv2.jar这个解压缩出来的文件夹（把之前的gdtadv2.jar替换掉）保存目录结构不变。<br>
 　　最后把整个文件打包成jar，找到 Ashengchengde目录下面的META-INF下的MANIFEST.MF
 复制到Ashengchengde根目录下（图六）<br>
